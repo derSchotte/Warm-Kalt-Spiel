@@ -38,4 +38,4 @@ Optional:
 ## Unvollständig:
 
 - Prüfung auf Richtigkeit bei Eingabe von Normal oder Hardcore fehlt.
-- Implementierung der Highscore und Übergabe der Werte: Username und Veresuche fehlt.
+- Implementierung der Highscore und Übergabe der Werte: Username und Versuche fehlt.
